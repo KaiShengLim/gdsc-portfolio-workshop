@@ -25,7 +25,7 @@ export default function Intro() {
           letterSpacing={{ sm: '-1.2px', md: '-1.8px' }}
           position="relative"
         >
-          <Box color="displayColor" as="span">Your Name</Box>
+          <Box color="displayColor" as="span">Kai Sheng</Box>
           .
         </Heading>
       </SlideFade>
